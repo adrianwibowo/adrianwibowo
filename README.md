@@ -48,6 +48,7 @@ You can connect with me on:
 - 🔶 [GitHub](https://github.com/adrianwibowo) - personal repo (all my work project is on my company account)
 - 🔶 [Gitlab](https://gitlab.com/elaawe) - old Repo
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ladrianwibowo)
+- 🍀 [Leetcode](https://leetcode.com/adrianwibowo/)
 - ✉️ Email: worklifeadrian@gmail.com
 
 
