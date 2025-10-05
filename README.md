@@ -1,8 +1,11 @@
 <h1>Hi 👋, I'm Laurensius Adrian Wibowo</h1>
 
 
-I'm a professional software engineer with a Bachelor's degree in Economics (Marketing and Business Management), and I'm passionate about technology and learning new things. I currently work at the largest e-commerce company in Indonesia as a backend software engineer (using Golang) with over 4 years of experience. Additionally, I contribute to helping young tech talent achieve their goals by working at an education tech company as a mentor. My diverse background in marketing and my passion for software engineering have equipped me with a unique perspective and a problem-solving approach. I thrive in collaborative environments and am adept at bridging the gap between technical teams and business objectives. 
-I'm also passionate about UI Design, Product Management, Microservices, Golang, and Node.js. I want to help create a better world through technology. Feel free to reach out to me if you have any innovative ideas to turn this dream into reality!
+I'm a professional software engineer passionate about technology and continuous learning. I currently work at the largest e-commerce company in Indonesia as a backend software engineer (using Golang), with over 4 years of experience. I also mentor aspiring tech talents through an education tech platform to help them grow and achieve their career goals.
+
+I enjoy solving complex problems and building systems that bridge the gap between technical excellence and business goals. My main interests include UI Design, Product Management, Microservices, Golang, and Node.js — and I aspire to create meaningful impact through technology.
+
+🔗 Note: Most of my professional projects are developed under company repositories and private codebases, so my public GitHub doesn’t fully reflect my experience.
 
 ####  ⚙️Skills
 | Programming Language | Proficiency|
